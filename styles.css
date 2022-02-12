@@ -119,7 +119,7 @@ ul{
     margin-right: 50px;
     margin-top: 16px;
     list-style-type: none;
-    overflow: scroll;
+    min-height: auto;
 }
 
 li, em, strong{
